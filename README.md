@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,c,cpp,typescript,nestjs,prisma,postgresql,redis,mongodb,docker,linux" />  <br> <!--   jenkins -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,cpp,typescript,nestjs,prisma,postgresql,redis,mongodb,docker,linux" />  <br> <!--   jenkins -->
   <img src="https://skillicons.dev/icons?i=react,flutter,figma,postman,git,gitlab,github,graphql" /> 
 </div>
 
