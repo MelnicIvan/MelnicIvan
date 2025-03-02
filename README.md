@@ -4,32 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ivan!;" />
 </h1>
 
-<h3 align="center">An enthusiastic Java Developer</h3>
+<h3 align="center">About me 👨🏻‍💻🎓</></h3>
+Passionate Java Developer with experience in building scalable and high-performance web applications.  
+  Skilled in Spring Boot, Hibernate, REST APIs, and database design.  
+  Familiar with microservices architecture, message brokers (Kafka, RabbitMQ), and cloud technologies.  
+  I strive to develop modern applications with well-structured and maintainable architecture.  
+  Focused on writing clean, efficient, and testable code, following best practices and design patterns.  
+  Always eager to learn new technologies, improve development workflows, and contribute to innovative projects.  
 
 <br/>
 
 <div align="center">
- 
- <!-- 🔭 I’m currently working on **a marketplace** -->
- 
- 🌱 I’m currently learning **Java, Spring Framework, Hibernate**
-
-💬 Ask me about **NestJS, C++, Java... or anything [here](https://github.com/MelnicIvan/MelnicIvan/issues)**
-
-⚡ Fun fact **A person's right lung holds more air than the left one**
 
  </div>
- 
+ <br/>
+ <br/>
+ <br/>
 <div align="center"> 
-   <a href="mailto:vania.melnik.1992@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+   <a href="mailto:ivan.mielnik.03@list.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B134AF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/vania-mielnik-16a54b337/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a> -->
+  <a href="https://www.instagram.com/vanea.melnik03?igsh=Y3Y3cm03c3d4b3g3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-B134AF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,cpp,typescript,nestjs,prisma,postgresql,redis,mongodb,docker,linux" />  <br> <!--   jenkins -->
-  <img src="https://skillicons.dev/icons?i=react,flutter,figma,postman,git,gitlab,github,graphql" /> 
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,postgresql,redis,mongodb,docker,linux,cpp" />  <br>
+  <img src="https://skillicons.dev/icons?i=react,flutter,postman,git,gitlab,github,jenkins,elasticsearch" /> 
 </div>
 
 <br/>
