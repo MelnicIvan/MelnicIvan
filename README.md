@@ -38,7 +38,8 @@ Passionate Java Developer with experience in building scalable and high-performa
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,postgresql,redis,mongodb,docker,linux,cpp" />  <br>
-  <img src="https://skillicons.dev/icons?i=react,flutter,postman,git,gitlab,github,jenkins,elasticsearch" /> 
+  <img src="https://skillicons.dev/icons?i=react,flutter,postman,git,gitlab,github" /> 
+<!--     ,jenkins,elasticsearch -->
 </div>
 
 <br/>
